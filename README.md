@@ -1,13 +1,13 @@
 # rag-chatbot
-##Overview
+**Overview**
 This project features a Retrieval-Augmented Generation (RAG) chatbot that interacts with users by retrieving relevant information from a knowledge base and generating contextually appropriate responses. The chatbot leverages advanced natural language processing techniques to enhance conversational abilities and provide accurate answers.
 
-#Tools and Libraries
+**Tools and Libraries**
 Hugging Face Transformers: Used to retrieve and work with pre-trained models for natural language understanding and generation.
 Pinecone: A vector database used for efficient and scalable similarity search in the knowledge base. Pinecone aids in retrieving relevant information based on vector similarity.
 Google Colab: Used for development and running the project. It supports GPU acceleration to speed up model inference and training.
 
-Install Dependencies:
+**Install Dependencies:**
 
 Make sure you have pip installed. Then, install the required Python packages:
 
