@@ -1,0 +1,12 @@
+langchain
+pinecone-client==2.2.2
+sentence_transformers
+pdf2image
+pypdf
+xformers
+bitsandbytes
+accelerate
+transformers
+langchain-community
+huggingface_hub==0.16.4
+gradio
